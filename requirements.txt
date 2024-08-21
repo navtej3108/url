@@ -1,0 +1,5 @@
+fastapi
+pydantic
+face-recognition
+aiohttp
+uvicorn
